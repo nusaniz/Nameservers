@@ -12,6 +12,7 @@ tulis domain di blogger menggunakan www.
 https://support.google.com/blogger/answer/1233387#zippy=%2Chubungkan-ke-domain-google-dari-blogger%2Chubungkan-ke-domain-non-google-dari-blogger
 https://medium.com/linkit-intecs/add-a-custom-domain-name-to-your-blogger-blog-for-free-d303c47af23e
 
+=================================
 ---------------------------------
 
 freenom - infinityfree
@@ -25,6 +26,7 @@ NS3.BYET.ORG
 NS4.BYET.ORG
 NS5.BYET.ORG
 
+=================================
 ---------------------------------
 
 freenom - github pages
@@ -38,6 +40,7 @@ DNS Management
 185.199.111.153 / A
 nama repositori (cbank.github.io) / CNAME
 
+=================================
 ---------------------------------
 
 freenom - freehostingeu.com

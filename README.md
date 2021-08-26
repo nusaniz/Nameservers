@@ -35,6 +35,7 @@
 - penulisan custom domain di github menggunakan www
 
 **DNS Management**
+![image](https://user-images.githubusercontent.com/67667654/130958312-b817d9c6-20ce-4612-96e6-d9d1796639e0.png)
 
 - 185.199.108.153 / A
 - 185.199.109.153 / A

@@ -31,7 +31,8 @@
 
 ## Freenom - Github Pages
 
-- Penulisan custom domain di github tanpa https:// dan www.
+- Penulisan custom domain di github tanpa https://
+- penulisan custom domain di github menggunakan www
 
 **DNS Management**
 
